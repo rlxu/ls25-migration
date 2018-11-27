@@ -21,6 +21,11 @@
   margin-left: 5px;
 }
 
+.description {
+  margin: 18px;
+  font-size: 18px;
+}
+
 .subsection {
   text-align: center;
   margin-top: 10px;
@@ -39,7 +44,7 @@
 }
 
 a {
-  color: black;
+  color: #2F4F4F;
 }
 
 #divider-line {

@@ -4,8 +4,54 @@
   margin: 0 auto;
   margin-top: 50px;
   margin-bottom: 50px;
+  font-family: 'Cutive Mono', monospace;
 }
 
+.title {
+  margin: 10px;
+}
+
+.t1 {
+  font-style: bold;
+  font-size: 40px;
+}
+
+.t2 {
+  font-size: 25px;
+  margin-left: 5px;
+}
+
+.subsection {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 70px;
+}
+
+.footer {
+  max-width: 1000px;
+  width: 95%;
+  margin: 0 auto;
+  font-family: 'Cutive Mono', monospace;
+  position: relative;
+  margin-top: 80px;
+  height: 100px;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+#divider-line {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #d3d3d3;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+/* Masonry layout */
 .dw {
   -webkit-animation: fade 2s;
   animation: fade 2s;

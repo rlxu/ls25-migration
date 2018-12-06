@@ -29,7 +29,7 @@
 .subsection {
   text-align: center;
   margin-top: 10px;
-  font-size: 70px;
+  font-size: 35px;
 }
 
 .footer {
@@ -44,7 +44,7 @@
 }
 
 a {
-  color: #2F4F4F;
+  color: #4C7F7F;
 }
 
 #divider-line {
@@ -99,7 +99,7 @@ a {
   }
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 2000px) {
   .dw {
     -webkit-column-count: 4;
             column-count: 4;
